@@ -1,0 +1,1608 @@
+[
+    {
+        "label": "The very beginning",
+        "time": 2.384185791015625e-07,
+        "GPU_state": [
+            37,
+            3.145728
+        ]
+    },
+    {
+        "label": "After attaching the model to device",
+        "time": 11.266788721084595,
+        "GPU_state": [
+            38,
+            2529.165312
+        ]
+    },
+    {
+        "label": "New Epoch Begins",
+        "time": 11.270017862319946,
+        "epoch": 0,
+        "GPU_state": [
+            38,
+            2529.165312
+        ]
+    },
+    {
+        "label": "loss_backward",
+        "time": 52.19103932380676,
+        "epoch": 0,
+        "step": 50,
+        "GPU_state": [
+            63,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_step",
+        "time": 52.938170433044434,
+        "epoch": 0,
+        "step": 50,
+        "GPU_state": [
+            64,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_zero",
+        "time": 52.94013547897339,
+        "epoch": 0,
+        "step": 50,
+        "GPU_state": [
+            64,
+            32891.731968
+        ]
+    },
+    {
+        "label": "loss_backward",
+        "time": 92.94134950637817,
+        "epoch": 0,
+        "step": 100,
+        "GPU_state": [
+            66,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_step",
+        "time": 93.68751668930054,
+        "epoch": 0,
+        "step": 100,
+        "GPU_state": [
+            67,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_zero",
+        "time": 93.68944120407104,
+        "epoch": 0,
+        "step": 100,
+        "GPU_state": [
+            67,
+            32891.731968
+        ]
+    },
+    {
+        "label": "loss_backward",
+        "time": 134.00671577453613,
+        "epoch": 0,
+        "step": 150,
+        "GPU_state": [
+            67,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_step",
+        "time": 134.75525450706482,
+        "epoch": 0,
+        "step": 150,
+        "GPU_state": [
+            68,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_zero",
+        "time": 134.75717449188232,
+        "epoch": 0,
+        "step": 150,
+        "GPU_state": [
+            68,
+            32891.731968
+        ]
+    },
+    {
+        "label": "loss_backward",
+        "time": 174.86724400520325,
+        "epoch": 0,
+        "step": 200,
+        "GPU_state": [
+            68,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_step",
+        "time": 175.6180384159088,
+        "epoch": 0,
+        "step": 200,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_zero",
+        "time": 175.62006735801697,
+        "epoch": 0,
+        "step": 200,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "loss_backward",
+        "time": 215.86785554885864,
+        "epoch": 0,
+        "step": 250,
+        "GPU_state": [
+            68,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_step",
+        "time": 216.6144585609436,
+        "epoch": 0,
+        "step": 250,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_zero",
+        "time": 216.61646366119385,
+        "epoch": 0,
+        "step": 250,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "New Epoch Begins",
+        "time": 234.23335790634155,
+        "epoch": 1,
+        "GPU_state": [
+            64,
+            32891.731968
+        ]
+    },
+    {
+        "label": "loss_backward",
+        "time": 275.2537474632263,
+        "epoch": 1,
+        "step": 50,
+        "GPU_state": [
+            67,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_step",
+        "time": 276.0066804885864,
+        "epoch": 1,
+        "step": 50,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_zero",
+        "time": 276.00893354415894,
+        "epoch": 1,
+        "step": 50,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "loss_backward",
+        "time": 316.0595541000366,
+        "epoch": 1,
+        "step": 100,
+        "GPU_state": [
+            67,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_step",
+        "time": 316.811710357666,
+        "epoch": 1,
+        "step": 100,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_zero",
+        "time": 316.81484150886536,
+        "epoch": 1,
+        "step": 100,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "loss_backward",
+        "time": 356.8058805465698,
+        "epoch": 1,
+        "step": 150,
+        "GPU_state": [
+            68,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_step",
+        "time": 357.55839014053345,
+        "epoch": 1,
+        "step": 150,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_zero",
+        "time": 357.560359954834,
+        "epoch": 1,
+        "step": 150,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "loss_backward",
+        "time": 397.577196598053,
+        "epoch": 1,
+        "step": 200,
+        "GPU_state": [
+            68,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_step",
+        "time": 398.33046102523804,
+        "epoch": 1,
+        "step": 200,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_zero",
+        "time": 398.3324890136719,
+        "epoch": 1,
+        "step": 200,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "loss_backward",
+        "time": 438.39902114868164,
+        "epoch": 1,
+        "step": 250,
+        "GPU_state": [
+            67,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_step",
+        "time": 439.1479880809784,
+        "epoch": 1,
+        "step": 250,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_zero",
+        "time": 439.1505672931671,
+        "epoch": 1,
+        "step": 250,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "New Epoch Begins",
+        "time": 456.3668522834778,
+        "epoch": 2,
+        "GPU_state": [
+            64,
+            32891.731968
+        ]
+    },
+    {
+        "label": "loss_backward",
+        "time": 497.1801300048828,
+        "epoch": 2,
+        "step": 50,
+        "GPU_state": [
+            68,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_step",
+        "time": 497.93703722953796,
+        "epoch": 2,
+        "step": 50,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_zero",
+        "time": 497.93906259536743,
+        "epoch": 2,
+        "step": 50,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "loss_backward",
+        "time": 537.932699918747,
+        "epoch": 2,
+        "step": 100,
+        "GPU_state": [
+            68,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_step",
+        "time": 538.6846251487732,
+        "epoch": 2,
+        "step": 100,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_zero",
+        "time": 538.6866421699524,
+        "epoch": 2,
+        "step": 100,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "loss_backward",
+        "time": 578.7229216098785,
+        "epoch": 2,
+        "step": 150,
+        "GPU_state": [
+            68,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_step",
+        "time": 579.4817821979523,
+        "epoch": 2,
+        "step": 150,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_zero",
+        "time": 579.4838042259216,
+        "epoch": 2,
+        "step": 150,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "loss_backward",
+        "time": 619.4992415904999,
+        "epoch": 2,
+        "step": 200,
+        "GPU_state": [
+            68,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_step",
+        "time": 620.2513592243195,
+        "epoch": 2,
+        "step": 200,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_zero",
+        "time": 620.2533791065216,
+        "epoch": 2,
+        "step": 200,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "loss_backward",
+        "time": 660.4220240116119,
+        "epoch": 2,
+        "step": 250,
+        "GPU_state": [
+            68,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_step",
+        "time": 661.1728713512421,
+        "epoch": 2,
+        "step": 250,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_zero",
+        "time": 661.1780271530151,
+        "epoch": 2,
+        "step": 250,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "New Epoch Begins",
+        "time": 678.7291932106018,
+        "epoch": 3,
+        "GPU_state": [
+            64,
+            32891.731968
+        ]
+    },
+    {
+        "label": "loss_backward",
+        "time": 719.5914530754089,
+        "epoch": 3,
+        "step": 50,
+        "GPU_state": [
+            68,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_step",
+        "time": 720.343621969223,
+        "epoch": 3,
+        "step": 50,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_zero",
+        "time": 720.345636844635,
+        "epoch": 3,
+        "step": 50,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "loss_backward",
+        "time": 760.3202676773071,
+        "epoch": 3,
+        "step": 100,
+        "GPU_state": [
+            68,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_step",
+        "time": 761.0713682174683,
+        "epoch": 3,
+        "step": 100,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_zero",
+        "time": 761.0733847618103,
+        "epoch": 3,
+        "step": 100,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "loss_backward",
+        "time": 801.0724079608917,
+        "epoch": 3,
+        "step": 150,
+        "GPU_state": [
+            68,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_step",
+        "time": 801.8263628482819,
+        "epoch": 3,
+        "step": 150,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_zero",
+        "time": 801.8283805847168,
+        "epoch": 3,
+        "step": 150,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "loss_backward",
+        "time": 841.8326528072357,
+        "epoch": 3,
+        "step": 200,
+        "GPU_state": [
+            68,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_step",
+        "time": 842.5862288475037,
+        "epoch": 3,
+        "step": 200,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_zero",
+        "time": 842.5882461071014,
+        "epoch": 3,
+        "step": 200,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "loss_backward",
+        "time": 882.6300013065338,
+        "epoch": 3,
+        "step": 250,
+        "GPU_state": [
+            68,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_step",
+        "time": 883.3959650993347,
+        "epoch": 3,
+        "step": 250,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_zero",
+        "time": 883.39799451828,
+        "epoch": 3,
+        "step": 250,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "New Epoch Begins",
+        "time": 900.7590870857239,
+        "epoch": 4,
+        "GPU_state": [
+            64,
+            32891.731968
+        ]
+    },
+    {
+        "label": "loss_backward",
+        "time": 941.780130147934,
+        "epoch": 4,
+        "step": 50,
+        "GPU_state": [
+            67,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_step",
+        "time": 942.5368995666504,
+        "epoch": 4,
+        "step": 50,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_zero",
+        "time": 942.5389902591705,
+        "epoch": 4,
+        "step": 50,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "loss_backward",
+        "time": 982.744010925293,
+        "epoch": 4,
+        "step": 100,
+        "GPU_state": [
+            68,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_step",
+        "time": 983.4929337501526,
+        "epoch": 4,
+        "step": 100,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_zero",
+        "time": 983.4956185817719,
+        "epoch": 4,
+        "step": 100,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "loss_backward",
+        "time": 1023.8405604362488,
+        "epoch": 4,
+        "step": 150,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_step",
+        "time": 1024.593101978302,
+        "epoch": 4,
+        "step": 150,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_zero",
+        "time": 1024.5965356826782,
+        "epoch": 4,
+        "step": 150,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "loss_backward",
+        "time": 1064.787263393402,
+        "epoch": 4,
+        "step": 200,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_step",
+        "time": 1065.54021859169,
+        "epoch": 4,
+        "step": 200,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_zero",
+        "time": 1065.5423216819763,
+        "epoch": 4,
+        "step": 200,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "loss_backward",
+        "time": 1105.7245421409607,
+        "epoch": 4,
+        "step": 250,
+        "GPU_state": [
+            68,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_step",
+        "time": 1106.4748764038086,
+        "epoch": 4,
+        "step": 250,
+        "GPU_state": [
+            70,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_zero",
+        "time": 1106.4781382083893,
+        "epoch": 4,
+        "step": 250,
+        "GPU_state": [
+            70,
+            32891.731968
+        ]
+    },
+    {
+        "label": "New Epoch Begins",
+        "time": 1123.7273037433624,
+        "epoch": 5,
+        "GPU_state": [
+            64,
+            32891.731968
+        ]
+    },
+    {
+        "label": "loss_backward",
+        "time": 1164.7587640285492,
+        "epoch": 5,
+        "step": 50,
+        "GPU_state": [
+            68,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_step",
+        "time": 1165.5187494754791,
+        "epoch": 5,
+        "step": 50,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_zero",
+        "time": 1165.5209057331085,
+        "epoch": 5,
+        "step": 50,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "loss_backward",
+        "time": 1205.5986626148224,
+        "epoch": 5,
+        "step": 100,
+        "GPU_state": [
+            68,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_step",
+        "time": 1206.3485584259033,
+        "epoch": 5,
+        "step": 100,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_zero",
+        "time": 1206.352609872818,
+        "epoch": 5,
+        "step": 100,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "loss_backward",
+        "time": 1246.6685931682587,
+        "epoch": 5,
+        "step": 150,
+        "GPU_state": [
+            68,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_step",
+        "time": 1247.4208509922028,
+        "epoch": 5,
+        "step": 150,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_zero",
+        "time": 1247.423137664795,
+        "epoch": 5,
+        "step": 150,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "loss_backward",
+        "time": 1287.577877521515,
+        "epoch": 5,
+        "step": 200,
+        "GPU_state": [
+            68,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_step",
+        "time": 1288.3280782699585,
+        "epoch": 5,
+        "step": 200,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_zero",
+        "time": 1288.3317902088165,
+        "epoch": 5,
+        "step": 200,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "loss_backward",
+        "time": 1328.6898031234741,
+        "epoch": 5,
+        "step": 250,
+        "GPU_state": [
+            68,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_step",
+        "time": 1329.4416046142578,
+        "epoch": 5,
+        "step": 250,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_zero",
+        "time": 1329.4446330070496,
+        "epoch": 5,
+        "step": 250,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "New Epoch Begins",
+        "time": 1347.204360961914,
+        "epoch": 6,
+        "GPU_state": [
+            64,
+            32891.731968
+        ]
+    },
+    {
+        "label": "loss_backward",
+        "time": 1388.6061689853668,
+        "epoch": 6,
+        "step": 50,
+        "GPU_state": [
+            67,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_step",
+        "time": 1389.3579678535461,
+        "epoch": 6,
+        "step": 50,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_zero",
+        "time": 1389.3606724739075,
+        "epoch": 6,
+        "step": 50,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "loss_backward",
+        "time": 1429.4764363765717,
+        "epoch": 6,
+        "step": 100,
+        "GPU_state": [
+            68,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_step",
+        "time": 1430.2418553829193,
+        "epoch": 6,
+        "step": 100,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_zero",
+        "time": 1430.2452938556671,
+        "epoch": 6,
+        "step": 100,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "loss_backward",
+        "time": 1470.4522182941437,
+        "epoch": 6,
+        "step": 150,
+        "GPU_state": [
+            68,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_step",
+        "time": 1471.201512336731,
+        "epoch": 6,
+        "step": 150,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_zero",
+        "time": 1471.205022573471,
+        "epoch": 6,
+        "step": 150,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "loss_backward",
+        "time": 1511.438807964325,
+        "epoch": 6,
+        "step": 200,
+        "GPU_state": [
+            68,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_step",
+        "time": 1512.192659854889,
+        "epoch": 6,
+        "step": 200,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_zero",
+        "time": 1512.196174621582,
+        "epoch": 6,
+        "step": 200,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "loss_backward",
+        "time": 1552.430297613144,
+        "epoch": 6,
+        "step": 250,
+        "GPU_state": [
+            68,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_step",
+        "time": 1553.1829161643982,
+        "epoch": 6,
+        "step": 250,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_zero",
+        "time": 1553.1857213974,
+        "epoch": 6,
+        "step": 250,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "New Epoch Begins",
+        "time": 1570.6417503356934,
+        "epoch": 7,
+        "GPU_state": [
+            64,
+            32891.731968
+        ]
+    },
+    {
+        "label": "loss_backward",
+        "time": 1611.73796916008,
+        "epoch": 7,
+        "step": 50,
+        "GPU_state": [
+            67,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_step",
+        "time": 1612.5031852722168,
+        "epoch": 7,
+        "step": 50,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_zero",
+        "time": 1612.5060164928436,
+        "epoch": 7,
+        "step": 50,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "loss_backward",
+        "time": 1652.632702589035,
+        "epoch": 7,
+        "step": 100,
+        "GPU_state": [
+            68,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_step",
+        "time": 1653.380723953247,
+        "epoch": 7,
+        "step": 100,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_zero",
+        "time": 1653.3840441703796,
+        "epoch": 7,
+        "step": 100,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "loss_backward",
+        "time": 1693.5681483745575,
+        "epoch": 7,
+        "step": 150,
+        "GPU_state": [
+            68,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_step",
+        "time": 1694.318996667862,
+        "epoch": 7,
+        "step": 150,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_zero",
+        "time": 1694.3214840888977,
+        "epoch": 7,
+        "step": 150,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "loss_backward",
+        "time": 1734.5193786621094,
+        "epoch": 7,
+        "step": 200,
+        "GPU_state": [
+            68,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_step",
+        "time": 1735.2703576087952,
+        "epoch": 7,
+        "step": 200,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_zero",
+        "time": 1735.2728950977325,
+        "epoch": 7,
+        "step": 200,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "loss_backward",
+        "time": 1775.6220879554749,
+        "epoch": 7,
+        "step": 250,
+        "GPU_state": [
+            68,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_step",
+        "time": 1776.3745336532593,
+        "epoch": 7,
+        "step": 250,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_zero",
+        "time": 1776.377158164978,
+        "epoch": 7,
+        "step": 250,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "New Epoch Begins",
+        "time": 1793.8711647987366,
+        "epoch": 8,
+        "GPU_state": [
+            64,
+            32891.731968
+        ]
+    },
+    {
+        "label": "loss_backward",
+        "time": 1834.763333082199,
+        "epoch": 8,
+        "step": 50,
+        "GPU_state": [
+            67,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_step",
+        "time": 1835.5107128620148,
+        "epoch": 8,
+        "step": 50,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_zero",
+        "time": 1835.5152008533478,
+        "epoch": 8,
+        "step": 50,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "loss_backward",
+        "time": 1875.789184808731,
+        "epoch": 8,
+        "step": 100,
+        "GPU_state": [
+            68,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_step",
+        "time": 1876.5399403572083,
+        "epoch": 8,
+        "step": 100,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_zero",
+        "time": 1876.543459892273,
+        "epoch": 8,
+        "step": 100,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "loss_backward",
+        "time": 1916.5546808242798,
+        "epoch": 8,
+        "step": 150,
+        "GPU_state": [
+            68,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_step",
+        "time": 1917.3167145252228,
+        "epoch": 8,
+        "step": 150,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_zero",
+        "time": 1917.3194751739502,
+        "epoch": 8,
+        "step": 150,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "loss_backward",
+        "time": 1957.2542161941528,
+        "epoch": 8,
+        "step": 200,
+        "GPU_state": [
+            68,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_step",
+        "time": 1958.005577802658,
+        "epoch": 8,
+        "step": 200,
+        "GPU_state": [
+            70,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_zero",
+        "time": 1958.0084013938904,
+        "epoch": 8,
+        "step": 200,
+        "GPU_state": [
+            70,
+            32891.731968
+        ]
+    },
+    {
+        "label": "loss_backward",
+        "time": 1997.983808517456,
+        "epoch": 8,
+        "step": 250,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_step",
+        "time": 1998.733758687973,
+        "epoch": 8,
+        "step": 250,
+        "GPU_state": [
+            70,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_zero",
+        "time": 1998.7364220619202,
+        "epoch": 8,
+        "step": 250,
+        "GPU_state": [
+            70,
+            32891.731968
+        ]
+    },
+    {
+        "label": "New Epoch Begins",
+        "time": 2016.1667528152466,
+        "epoch": 9,
+        "GPU_state": [
+            64,
+            32891.731968
+        ]
+    },
+    {
+        "label": "loss_backward",
+        "time": 2057.1917288303375,
+        "epoch": 9,
+        "step": 50,
+        "GPU_state": [
+            67,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_step",
+        "time": 2057.941671848297,
+        "epoch": 9,
+        "step": 50,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_zero",
+        "time": 2057.944442510605,
+        "epoch": 9,
+        "step": 50,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "loss_backward",
+        "time": 2098.448925256729,
+        "epoch": 9,
+        "step": 100,
+        "GPU_state": [
+            67,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_step",
+        "time": 2099.1989920139313,
+        "epoch": 9,
+        "step": 100,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_zero",
+        "time": 2099.2046065330505,
+        "epoch": 9,
+        "step": 100,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "loss_backward",
+        "time": 2139.564346075058,
+        "epoch": 9,
+        "step": 150,
+        "GPU_state": [
+            67,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_step",
+        "time": 2140.3281166553497,
+        "epoch": 9,
+        "step": 150,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_zero",
+        "time": 2140.331734895706,
+        "epoch": 9,
+        "step": 150,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "loss_backward",
+        "time": 2180.5146753787994,
+        "epoch": 9,
+        "step": 200,
+        "GPU_state": [
+            67,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_step",
+        "time": 2181.2780594825745,
+        "epoch": 9,
+        "step": 200,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_zero",
+        "time": 2181.2808673381805,
+        "epoch": 9,
+        "step": 200,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "loss_backward",
+        "time": 2221.5215096473694,
+        "epoch": 9,
+        "step": 250,
+        "GPU_state": [
+            68,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_step",
+        "time": 2222.2732594013214,
+        "epoch": 9,
+        "step": 250,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    },
+    {
+        "label": "optimizer_zero",
+        "time": 2222.277104139328,
+        "epoch": 9,
+        "step": 250,
+        "GPU_state": [
+            69,
+            32891.731968
+        ]
+    }
+]
